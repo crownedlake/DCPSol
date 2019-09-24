@@ -1,2 +1,2 @@
 # DCPSol
-Repository that contains soultions of problems from https://www.dailycodingproblem.com/
+Repository that contains solutions of problems from https://www.dailycodingproblem.com/
